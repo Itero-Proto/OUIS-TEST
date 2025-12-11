@@ -5,7 +5,7 @@ body {
     background-color: #f5f5f5;
 }
 h1 {
-    font-size: 24px; /* размер шрифта, уменьшен относительно стандартного */
+    font-size: 18px; /* размер шрифта, уменьшен относительно стандартного */
     font-family: 'Arial', sans-serif; /* шрифт */
     font-weight: bold; /* жирность */
     color: #333; /* цвет текста */
@@ -137,3 +137,4 @@ input[type="checkbox"] {
     opacity: 1;
     transform: translateY(0);
 }
+
